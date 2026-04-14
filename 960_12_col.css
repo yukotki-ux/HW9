@@ -428,3 +428,9 @@ nav {
 nav a {
   margin-left: 20px;
 }
+.nav-footer {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 10px;
+}
