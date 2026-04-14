@@ -389,15 +389,6 @@ h4 {
   padding: 20px;
   background-color: #c7dca7;
 }
-section {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-}
-p {
-  border: dotted;
-  border-color: #c7dca7;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 img {
   width: 100%;
   height: auto;
